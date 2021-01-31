@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Hawaii",
+    "name": "Hawaii",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Los Angeles, CA",
+    "name": "Los Angeles, CA",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Gold Coast, Australia",
+    "name": "Gold Coast, Australia",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Bali",
+    "name": "Bali",
+    "button": "View Destination"
+  }
+]
